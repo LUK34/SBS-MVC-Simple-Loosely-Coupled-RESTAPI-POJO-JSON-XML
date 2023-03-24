@@ -89,7 +89,7 @@ OUTPUT:
 OUTPUT:
 Student(email=admin@gmail.com, name=admin, gender=Male)
 
-4. POST XML
+4. POST JSON
 4.1 Select option as "POST" in POSTMAN
 4.2 Type URL: localhost:8080/home
 4.3 Select Headers
